@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C024CEC14B72701075EDDF3044D60D9F13D8D41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C024CEC14B72701075EDDF3044D60D9F13D8D41" : 0,
+    "1FF0AEE258CAF92CFDAAC1529B65066DB1E2E5C5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54F245C6-D29E-4E5F-B8E5-4EEE68981703",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C024CEC14B72701075EDDF3044D60D9F13D8D41" : "mCalc\/",
+    "1FF0AEE258CAF92CFDAAC1529B65066DB1E2E5C5" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mCalc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mCalc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReissZ\/mCalc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C024CEC14B72701075EDDF3044D60D9F13D8D41"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReissZ\/ReissBTApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1FF0AEE258CAF92CFDAAC1529B65066DB1E2E5C5"
+    }
+  ]
+}
